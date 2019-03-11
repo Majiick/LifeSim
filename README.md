@@ -6,4 +6,4 @@ In the initial repo, there is my implementation of an 3D L-System and a Stochast
 I'm using 'The Algorithmic Beauty Of Plants' by Przemyslaw Prusinkiewicz and Aristid Lindenmayer as reference which can be found for free here http://algorithmicbotany.org/papers/abop/abop.pdf
 
 # Story Board
-![Story Board](https://raw.githubusercontent.com/Majiick/LifeSim/StoryBoard.png)
+![Story Board](https://github.com/Majiick/LifeSim/blob/master/StoryBoard.png)
